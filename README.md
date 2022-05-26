@@ -31,7 +31,7 @@ This environment needs to be activated for usage. Any package installations will
 source ~/venv/bin/activate
 
 * Clone the repository
-$ git clone https://github.com/MultiAgentLearning/playground ~/playground
+$ git clone https://github.com/sunjing1102628/playground ~/playground
 Install the pommerman package. This needs to be done every time the code is updated to get the latest modules
 $ cd ~/playground
 $ pip install -U .
